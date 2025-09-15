@@ -2,9 +2,10 @@ cff-version: 1.2.0
 title: <TITLE>
 type: software
 authors:
-  - given-names: Alix
+  - given-names: Alix (Malix)
     family-names: Brunet
     email: alixbrunetcontact@gmail.com
-    orcid: 'https://orcid.org/0009-0005-6274-1845'
-repository-code: 'https://github.com/Malix-Labs/REPOSITORY'
+    orcid: https://orcid.org/0009-0005-6274-1845
+repository-code: https://github.com/Malix-Labs/REPOSITORY
 license: AGPL-3.0-or-later
+

@@ -1,6 +1,9 @@
 ---
 name: blank
 about: abc
+title: ''
+labels: ''
+assignees: Malix-Labs
 
 ---
 
